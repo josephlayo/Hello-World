@@ -1,11 +1,4 @@
 # Hello-World
-Just another repository
+This repository is now Sample VB.NET  OpenPGP Example.
 
-Hi,
-
-write something about your self here...
-
-Another changes here...
-
-
-another change here.
+joe
