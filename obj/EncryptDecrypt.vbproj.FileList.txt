@@ -1,0 +1,12 @@
+bin\Debug\EncryptDecrypt.exe
+bin\Debug\EncryptDecrypt.pdb
+bin\Debug\EncryptDecrypt.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EncryptDecrypt.Form1.resources
+obj\Debug\EncryptDecrypt.Resources.resources
+obj\Debug\EncryptDecrypt.vbproj.GenerateResource.Cache
+obj\Debug\EncryptDecrypt.exe
+obj\Debug\EncryptDecrypt.xml
+obj\Debug\EncryptDecrypt.pdb
+bin\Debug\Starksoft.Cryptography.OpenPGP.xml
+bin\Debug\Starksoft.Cryptography.OpenPGP.pdb

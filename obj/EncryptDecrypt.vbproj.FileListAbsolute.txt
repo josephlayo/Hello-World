@@ -1,0 +1,24 @@
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.exe
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.xml
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.pdb
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\EncryptDecrypt.exe
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\EncryptDecrypt.pdb
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\EncryptDecrypt.xml
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\Starksoft.Cryptography.OpenPGP.pdb
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\Starksoft.Cryptography.OpenPGP.xml
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.Form1.resources
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.Resources.resources
+C:\dev\Libraries\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.vbproj.GenerateResource.Cache
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.exe
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.xml
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.pdb
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\EncryptDecrypt.exe
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\EncryptDecrypt.pdb
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\EncryptDecrypt.xml
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\Starksoft.Cryptography.OpenPGP.pdb
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\bin\Debug\Starksoft.Cryptography.OpenPGP.xml
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.Form1.resources
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.Resources.resources
+C:\dev\Starksoft, LLC\Starksoft.Cryptography.OpenPGP\Examples\VB.NET\1 - OpenPGP Example\obj\Debug\EncryptDecrypt.vbproj.GenerateResource.Cache
